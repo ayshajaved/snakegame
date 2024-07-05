@@ -1,6 +1,6 @@
 import pygame
 from pygame.locals import *
-import time
+
 
 def drawblock(surface, block, x_co, y_co):
     surface.fill((112, 15, 63))  # Clear the surface
