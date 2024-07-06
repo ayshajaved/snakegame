@@ -1,5 +1,4 @@
 #in this program, i will mold by programm in a way that the block will move on its on and i will just change the direction of the block(snake) on pressing the keys
-#In this file, i converted my DAY1 code into OOPS
 import pygame
 from pygame.locals import *
 import time
